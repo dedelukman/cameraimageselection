@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraImageSelection</string>
+    <string name="hello_world">Hello World! This is a demo for image capturing and selection using CAMERA</string>
+    <string name="camera">CAMERA</string>
+</resources>
